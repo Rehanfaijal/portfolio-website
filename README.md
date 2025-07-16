@@ -1,2 +1,97 @@
-# portfolio-website
-this is my portfolio website made with Html, Css, Java script
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rehan-Wevdeveloper</title>
+    <link rel="stylesheet" href="/portfolio.css">
+
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Rehan Faijal</h1>
+            <h2>Web-Developer(Fronterd/Full stack)</h2>
+            <section>Email:rehanfaijal61@gmail.com | phone: +91- 6204484748</section>
+            <p>
+                <a href="https://github.com/Rehanfaijal" target="-main">GitHub.com/in/rehan</a>
+                |
+                <a href="https://www.linkedin.com/in/rehan-faijal-8112a3351" target="-main">linkedin.com/in/rehan</a>
+                |
+                <a href="https://internshala.com/student/dashboard" target="-main"> intershala.com/in/rehan</a>
+                |
+
+            </p>
+            
+        </header>
+        <section class="summary" >
+            <h3>summary</h3>
+            <p>
+                Self-thought Web Developer with expertise in HTML, CSS, JavaScript and React.
+                Built multiple real-world project like E-commerce and portfoliowebsite.
+                Passionate about clean UI respontive design and writing scalable code.
+                Seeking and entry-level role to contribute and growing a tech-ddriven enviroment.
+
+                <SECtion class="skill">
+                <h3>Skills</h3>
+               <ul>
+                    <li><strong>Language:</strong> Html, Css, JavaSript</li>
+                    <li><strong>labraries/framewroks:</strong> React, Node,Jr, Tilwind, Css</li>
+                    <li><strong>Tools:</strong> Git, github, vscode, Postman</li>
+                    <li><strong>Database:</strong> MongoDB, Firebase</li>
+                    <li><strong>development:</strong> Netlify, Vercel, Render</li>
+
+                     </ul>
+                    </SECtion>
+                   
+                   
+                    <section class="Projects">
+                        <h3>Projects</h3>
+                        <div class="projects">
+                            <h4>Peresnol Portfolio website</h4>
+                            <p>Created a  modern , responsive Portfolio to showcase Projects and skills.</p>
+                            <p>GitHub: <a href="https://github.com/Rehanfaijal">GitHub.com.in.rehanfaijal</a></p>
+                             </div>
+
+                             <div class="Projects">
+                                <h4>E-Commmerce Store (MERN-STACK)</h4>
+                                <UL>
+                                    <li>React-Frontend + NodeJrs-backend</li>
+                                    <li>MongoDB For Database, Express API</li>
+                                </UL>
+                                <p>GitHub: <a href="https://github.com/Rehanfaijal">github.com.in.rehanfaijal</a></p>
+                             </div>
+                             <section class="education">
+                                <h4>Education</h4>
+                                <p><strong>Bachelor of Technology(B-Tech)in Computer Science</strong></p>
+                                <p>Ram Chandra Chandravanshi Institute of Technology, Jharkhand</p>
+
+                             </section>
+
+                             <section class="location">
+                                <h4>Location</h4>
+                                <p>Palamu, Jharkhand</p>
+
+                             </section>
+
+
+                       
+
+                    </section>
+
+
+
+
+
+                    
+         
+                
+
+            </p>
+
+        </section>
+
+    </div>
+    
+</body>
+</html>
