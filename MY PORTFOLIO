@@ -1,1 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio - Rehan Faijal</title>
+    <link rel="stylesheet" href="style.css" />
+   
+  <body>
+    <div class="container">
+      <section class="intro">
+        <div class="intro-text">
+          <h2>About me</h2>
+          <p>
+            Hi!<br />
+            My name is Rehan Faijal.<br />
+        
+I’m a passionate and detail-oriented Full Stack Developer with a solid foundation in front-end and back-end technologies. I specialize in creating responsive web applications using HTML, CSS, JavaScript, React, Node.js, and MongoDB. As a fresher, I am eager to contribute to real-world projects, continuously learn modern tools, and collaborate with innovative teams. I take pride in writing clean, efficient code and building user-friendly solutions. My goal is to grow as a developer while making meaningful contributions to the tech industry.
+          </p>
+
+          <div class="contact">
+            <h3>Contact</h3>
+            <p>📧 rehanfaijal61@gmail.com/p>
+            <p>📱 6204484748</p>
+            <p>🔗 <a href="https://www.linkedin.com/in/rehan-faijal-8112a3351">LinkedIn</a> | <a href="https://github.com/Rehanfaijal">github</a></p>
+          </div>
+        </div>
+        <div class="profile-img">
+          <img src="/faijal01.jpg" width="300"  height="" alt="Profile Picture" />
+        </div>
+      </section>
+
+      <section class="details">
+        <div class="card">
+          <div class="left">
+            <h3>Education</h3>
+            <p>RCIT university -- Full-Stack-Developer<br /><span>202 - now</span></p>
+
+            <h3>Technical skill</h3>
+            <div class="icons">
+               <img src="/html.png" alt="">
+                <img src="/css.png" alt="">
+                <img src="/javascript.png" alt=""/>
+                <img src="/reactjs.png" alt="">
+                <img src="/nodejs.png" alt="">
+                <img src="/expressjs.png" alt=""/>
+                <img src="/mongo.png" alt="">
+            </div>
+
+            <h3>Interest</h3>
+            <p>Web developement | Technology</p>
+          </div>
+          <div class="right">
+            <h3>Soft skill</h3>
+            <ul>
+              <li>Teamwork</li>
+              <li>Communication</li>
+              <li>Critical Thinking</li>
+              <li>Time Management</li>
+            </ul>
+
+            <h3>Skill set</h3>
+            <ul>
+              <li>User research</li>
+              <li>Wireframing</li>
+              <li>Brainstorming</li>
+              <li>Web Design</li>
+              <li>App Design</li>
+              <li>Prototyping</li>
+            </ul>
+
+            <section class="projects">
+            <h3> My Projects</h3>
+            
+            <a href="https://github.com/Rehanfaijal">Portfolio</a>
+            <a href="https://github.com/Rehanfaijal">Zomatologo</a>
+            <a href="https://github.com/Rehanfaijal">calculator</a>
+            
+            </section>
+            <h3>Language</h3>
+            <p>Hindi | English (Pre-intermediate)</p>
+          </div>
+        </div>
+      </section>
+    </div>
+
+  </body>
+</html>
 
